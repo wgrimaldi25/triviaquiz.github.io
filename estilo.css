@@ -15,14 +15,6 @@ body{
     align-items: center;
     justify-content: center;
 }
-#miVideo {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    min-width: 100%; 
-    min-height: 100%;
-    z-index: -1;
-}
 .container{
     width: 500px;
     background: linear-gradient(#ffffff);
@@ -252,4 +244,5 @@ header{
     font-weight: bold;
     margin: 10px 0;
     display: inline-block;
+
 }
