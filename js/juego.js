@@ -827,7 +827,7 @@ const preguntas = [
     {
         id: 84,
         categoria: "juegos",
-        titulo: "4. Which video game is considered the best-selling of all time (not counting console bundles)?",
+        titulo: "4. Which video game is considered the best-selling of all time?",
         opcionA: "Minecraft",
         opcionB: "Tetris",
         opcionC: "Grand Theft Auto V",
@@ -840,7 +840,7 @@ const preguntas = [
         titulo: "5. In The Legend of Zelda saga, what is the name of the princess?",
         opcionA: "Zelda",
         opcionB: "Peach",
-        opcionC: "Midna",
+        opcionC: "Link",
         opcionD: "Samus",
         correcta: "a"
     },
@@ -868,10 +868,10 @@ const preguntas = [
         id: 88,
         categoria: "juegos",
         titulo: "8. In Pokémon, what is the name of the professor who gives trainers their first Pokémon in the Kanto region?",
-        opcionA: "Activision",
-        opcionB: "Ubisoft",
-        opcionC: "Riot Games",
-        opcionD: "Epic Games",
+        opcionA: "Professor Birch",
+        opcionB: "Professor Sycamore",
+        opcionC: "Professor Elm",
+        opcionD: "Professor Oak",
         correcta: "d"
     },
     {
@@ -912,7 +912,7 @@ const preguntas = [
         opcionB: "Energy Sword",
         opcionC: "Sniper Rifle",
         opcionD: "Plasma Pistol",
-        correcta: "a"
+        correcta: "b"
     },
     {
         id: 93,
@@ -1303,3 +1303,4 @@ btnSiguiente.addEventListener("click",()=>{
     
 
 })
+
