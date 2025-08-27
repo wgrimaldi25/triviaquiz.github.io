@@ -385,7 +385,7 @@ const preguntas = [
         id: 39,
         categoria: "musica",
         titulo: "19. Which BLACKPINK member released the song Money as a solo artist?",
-        opcionA: "Lisa",
+        opcionA: "BrunoMars",
         opcionB: "Rosé",
         opcionC: "Jisoo",
         opcionD: "Lisa",
@@ -1301,4 +1301,5 @@ btnSiguiente.addEventListener("click",()=>{
         
     }
     
+
 })
